@@ -1,7 +1,7 @@
 # Experiments with temporary tables in PostgreSQL
 ## _Эксперименты с временными таблицами в PostgreSQL_
 
-Данный материал появился в результате развития статьия на моём сайте [ptolmachev.ru](https://ptolmachev.ru/category/postgresql)
+Данный материал появился в результате развития статьия на моём сайте [ptolmachev.ru](https://ptolmachev.ru/temp-table-odinnadcat-eksperimentov.html)
 
 Я провёл одиннадцать экспериментов с временными таблицами в PostgreSQL 16-й версии, код и результаты которых привожу здесь.
 
