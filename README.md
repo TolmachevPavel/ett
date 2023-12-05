@@ -21,9 +21,9 @@
 
 Тут есть три директории:
 
-- code
-- results
-- echo
+- [code](https://github.com/TolmachevPavel/ett/tree/main/code)
+- [results](https://github.com/TolmachevPavel/ett/tree/main/results)
+- [echo](https://github.com/TolmachevPavel/ett/tree/main/echo)
 
 ## code
 
